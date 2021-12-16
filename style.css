@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap");
+
+body::before {
+  display: block;
+  content: "";
+  height: 60px;
+  justify-content: center;
+  text-align: center;
+}
+
+#map {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+}
+
+/* .text {
+  position: absolute;
+  right: 0;
+  width: 100;
+  padding: 100px;
+} */
+
+/* video {
+  position: relative;
+  display: block;
+  width: 100%;
+} */
+
+/* .text {
+  position: absolute;
+  bottom: -2200px;
+  right: -3;
+} */
+
+/* .navbar-brand {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  /* text-align: center;
+  margin: auto;
+  margin-left: 48%;
+}  */
+
+/* // code to place text at the middle of a carousel
+video {
+  position: relative;
+  display: block;
+  width: 100%;
+}
+.float-right {
+  position: absolute;
+}
+.text {
+  position: absolute;
+  bottom: 180px;
+  right: 0;
+} */
