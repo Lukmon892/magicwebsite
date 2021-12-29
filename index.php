@@ -206,7 +206,8 @@
                   <p class="card-text" style="font-family:'Times New Roman', Times, serif">
                     The primary mission of the council is to forge connections and build relationships with local, regional, and national agencies and leaders that will help advance research and academic programming <!--for the university. We are particularly interested in aligning this research work with areas of strategic importance for the university, including artificial intelligence and intelligent systems, cybersecurity, marine science and engineering, and remoote sensing, among others.-->
                   </p>
-                  <a href="#" class="btn btn-primary" style="font-family:'Times New Roman', Times, serif">Read More</a>
+                  <button type="button" class="btn btn-secondary" data-bs-container="body" data-bs-toggle="popover" data-bs-placement="bottom" data-bs-content="Bottom popover">Read More</button>
+                  <!--<a href="#" class="btn btn-primary" style="font-family:'Times New Roman', Times, serif">Read More</a>-->
                 </div>
               </div>
             </div>
