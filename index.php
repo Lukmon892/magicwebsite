@@ -205,19 +205,17 @@
                   <h3 class="card-title mb-3" style="font-family:'Times New Roman', Times, serif"><span class="text-success">Mission of MAGIC</span></h3>
                   <p class="card-text" style="font-family:'Times New Roman', Times, serif">
                     The primary mission of the council is to forge connections and build relationships with local, regional, and national agencies and leaders that will help advance research and academic programming <!--for the university. We are particularly interested in aligning this research work with areas of strategic importance for the university, including artificial intelligence and intelligent systems, cybersecurity, marine science and engineering, and remoote sensing, among others.-->
-
-                    <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-                  Read More
-                  </a>
                   </p>
-                  
+                  <!-- <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+                  Read More
+                  </a> -->
                   <!-- <b type="button" class="btn btn-secondary" data-bs-container="body" data-bs-toggle="popover" data-bs-placement="bottom" data-bs-content="Bottom popover">Read More</b> -->
-                  <!-- <a href="#" class="btn btn-primary" style="font-family:'Times New Roman', Times, serif">Read More</a> -->
-              <div class="collapse" id="collapseExample">
+                  <a href="#" class="btn btn-primary" style="font-family:'Times New Roman', Times, serif">Read More</a>
+              <!-- <div class="collapse" id="collapseExample">
                   <div class="card card-body">
                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
                    </div>
-              </div>
+              </div> -->
                 </div>
               </div>
             </div>
