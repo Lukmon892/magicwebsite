@@ -199,13 +199,13 @@
             <div class="col-md">
               <div class="card bg-dark text-light">
                 <div class="card-body text-center">
-                <div class="collapse-content">
+                <!--<div class="collapse-content">-->
                   <div class="h1 mb-3">
                     <i class="bi bi-laptop"></i>
                   </div>
                   <h3 class="card-title mb-3" style="font-family:'Times New Roman', Times, serif"><span class="text-success">Mission of MAGIC</span></h3>
                   <p class="card-text collapse" id= "collapseContent" style="font-family:'Times New Roman', Times, serif">
-                    The primary mission of the council is to forge connections and build relationships with local, regional, and national agencies and leaders that will help advance research and academic programming for the university. We are particularly interested in aligning this research work with areas of strategic importance for the university, including artificial intelligence and intelligent systems, cybersecurity, marine science and engineering, and remoote sensing, among others.
+                    The primary mission of the council is to forge connections and build relationships with local, regional, and national agencies and leaders that will help advance research and academic programming <!--for the university. We are particularly interested in aligning this research work with areas of strategic importance for the university, including artificial intelligence and intelligent systems, cybersecurity, marine science and engineering, and remoote sensing, among others.-->
                   </p>
                   <!-- <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
                   Read More
