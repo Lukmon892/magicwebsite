@@ -211,7 +211,7 @@
                   Read More
                   </a> -->
                   <!-- <b type="button" class="btn btn-secondary" data-bs-container="body" data-bs-toggle="popover" data-bs-placement="bottom" data-bs-content="Bottom popover">Read More</b> -->
-                  <a href="#collapseContent" class="btn btn-primary" style="font-family:'Times New Roman', Times, serif">Read More</a>
+                  <a href="#" class="btn btn-primary" style="font-family:'Times New Roman', Times, serif">Read More</a>
               <!-- <div class="collapse" id="collapseExample">
                   <div class="card card-body">
                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
