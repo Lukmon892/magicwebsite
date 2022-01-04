@@ -220,7 +220,7 @@
                 </div>
               </div>
             </div>
-</div>
+
             <div class="col-md">
               <div class="card bg-secondary text-light">
                 <div class="card-body text-center">
